@@ -2,9 +2,10 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning .NET7, .NET MAUI and Blazor
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫  Feel free to reach me via 
+- 📫  Feel free to reach me via the following 
     * :link: : https://www.twitter.com/bkibicho 
     * :link: : https://www.linkedin.com/in/boniface-kibicho/
+    * My fun youtube videos https://www.youtube.com/BonifaceKibicho
     * :email: boniface.kibicho@outlook.com
 
 <!---
